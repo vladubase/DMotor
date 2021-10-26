@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=DMotor_Schematic_Driver.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DMotor_Schematic_Driver.SchDoc|FileName=DMotor_Schematic_MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DMotor_Schematic_Driver.SchDoc|FileName=DMotor_Schematic_POWER.SchDoc|SheetNumber=1
