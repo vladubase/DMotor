@@ -1,6 +1,13 @@
 # Hide History files of Altium Designer
-Scheme/DMotor_Rev1/History
-Scheme/DMotor_Rev1/Library/History
+History
+
+# Hide logs of Altium Designer
+Project Logs for DMotor
+
+# Hide previes of Altium Designer
+__Previews
 
 # Hide all files starts "~$"
 **/~$*.*
+
+
